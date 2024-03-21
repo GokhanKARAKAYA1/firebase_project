@@ -9,7 +9,7 @@ The Chat-App project enables users to log in to a chat application created using
 
 <h1>chat_app_project</h1>
 
-<p> This project is a website designed using advanced HTML and CSS code. It includes Google fonts and IconScout icons.
+<p>
 
 <h3>Installation and usage</h3>
 
